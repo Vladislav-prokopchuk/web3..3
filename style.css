@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#gameCanvas {
+    background-color: #000;
+    border: 2px solid #fff;
+    display: block;
+    margin: 20px auto;
+}
