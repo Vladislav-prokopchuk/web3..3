@@ -8,8 +8,8 @@ let paddleX = (canvas.width - paddleWidth) / 2;
 const ballRadius = 10;
 let ballX = canvas.width / 2;
 let ballY = canvas.height - 30;
-let ballSpeedX = 2;
-let ballSpeedY = -2;
+let ballSpeedX = 1;
+let ballSpeedY = -1;
 
 const brickRowCount = 5;
 const brickColumnCount = 3;
